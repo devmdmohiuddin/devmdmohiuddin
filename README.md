@@ -2,15 +2,12 @@
   <h1 align="center"><b>Hi there  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm MM Mohi <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/man-technologist_1f468-200d-1f4bb.png" alt="" width="30"></h1>
 </p>
 <p align="center">
-<a href="https://fr3portfolio.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp; 
-<a href="https://twitter.com/AbdurRakibRony9"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-<a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHvpBxSQrhJbsdPtBfHhtzTtDqXTjvtXBpkrmNggRTnxqLCPjQnQNCKpwcPzvGDtmBLMwpq"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
-<a href="https://dev.to/ronyfr3"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/mmmohi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>&nbsp;
 </p>
 
 
  ## <h2 align="start"> ✔️ Education </h3>
-<!-- <img src="https://bauet.ac.bd/wp-content/uploads/2020/11/BAUET-Logo-250x244-1.png" width="100px"> -->
+<img src="https://gonouniversity.edu.bd/microbiology/wp-content/uploads/2018/09/front-logo.png" width="100px">
 
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
