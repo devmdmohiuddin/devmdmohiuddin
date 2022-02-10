@@ -76,4 +76,3 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohiuddinmohi&layout=compact&theme=dracula&hide_border=true" alt="mohiuddinmohi's github stats"/>
 </p>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mohiuddinmohi.mohiuddinmohi)
