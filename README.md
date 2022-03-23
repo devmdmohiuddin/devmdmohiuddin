@@ -2,7 +2,7 @@
 ![Visitor Badge](https://komarev.com/ghpvc/?username=mohiuddinmohi)
 
 <p>
-  <h1 align="center"><b>Hi there  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm MM Mohi <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/man-technologist_1f468-200d-1f4bb.png" alt="" width="30"></h1>
+  <h1 align="center"><b>Hi there  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Md Mohiuddin <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/man-technologist_1f468-200d-1f4bb.png" alt="" width="30"></h1>
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/mmmohi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>&nbsp;
