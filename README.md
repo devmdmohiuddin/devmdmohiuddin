@@ -4,8 +4,6 @@
 # **Md Mohiuddin Mojumder Mohi**  
 ## Software Engineer | Salesforce Technical Consultant
 
-![Profile Image](https://www.example.com/profile.jpg)
-
 ---
 
 ### 🌐 **Connect with Me**  
