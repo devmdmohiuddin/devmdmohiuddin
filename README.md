@@ -1,78 +1,199 @@
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mohiuddinmohi.mohiuddinmohi)
-![Visitor Badge](https://komarev.com/ghpvc/?username=mohiuddinmohi)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=devmdmohiuddin.devmdmohiuddin)
+![Visitor Badge](https://komarev.com/ghpvc/?username=devmdmohiuddin)
 
-<p>
-  <h1 align="center"><b>Hi there  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Md Mohiuddin <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/man-technologist_1f468-200d-1f4bb.png" alt="" width="30"></h1>
-</p>
-<p align="center">
-<a href="https://www.linkedin.com/in/mmmohi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>&nbsp;
-</p>
+# **Md Mohiuddin Mojumder Mohi**  
+## Software Engineer | Salesforce Technical Consultant
 
+![Profile Image](https://www.example.com/profile.jpg)
 
- ## <h2 align="start"> ✔️ Education </h3>
-<img src="https://gonouniversity.edu.bd/microbiology/wp-content/uploads/2018/09/front-logo.png" width="100px">
+---
 
-![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
-![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
+### 🌐 **Connect with Me**  
+<div style="display: flex; gap: 15px;">
+  <a href="https://www.linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.facebook.com/yourprofile">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://www.youtube.com/yourprofile">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="https://www.yourwebsite.com">
+    <img src="https://img.shields.io/badge/Website-000000?style=flat&logo=appveyor&logoColor=white" alt="Website">
+  </a>
+</div>
 
+---
 
- ## <h2 align="start"> ✔️ Technologies </h3>
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
- 
- 
-## <h2 align="start"> ✔️ Databases</h3>
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### 📚 **Education & Certifications**  
+<div style="display: flex; gap: 15px;">
+  <a href="https://www.udemy.com">
+    <img src="https://img.shields.io/badge/Udemy-Black?style=flat&logo=udemy&logoColor=white" alt="Udemy">
+  </a>
+  <a href="https://www.freecodecamp.org">
+    <img src="https://img.shields.io/badge/FreeCodeCamp-2A5D84?style=flat&logo=freecodecamp&logoColor=white" alt="FreeCodeCamp">
+  </a>
+  <a href="https://www.coursera.org">
+    <img src="https://img.shields.io/badge/Coursera-0063B1?style=flat&logo=coursera&logoColor=white" alt="Coursera">
+  </a>
+  <a href="https://trailhead.salesforce.com">
+    <img src="https://img.shields.io/badge/Trailhead-00A1E6?style=flat&logo=salesforce&logoColor=white" alt="Trailhead">
+  </a>
+</div>
 
+---
 
-## <h2 align="start"> ✔️ Testing</h3>
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+### 🖥️ **Technical Skills**  
+<div style="display: flex; flex-wrap: wrap; gap: 15px;">
+  <a href="https://www.w3.org/html/">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
+  </a>
+  <a href="https://www.w3.org/Style/CSS/">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
+  </a>
+  <a href="https://www.javascript.com">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+  </a>
+  <a href="https://reactjs.org">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
+  </a>
+  <a href="https://redux.js.org">
+    <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux">
+  </a>
+  <a href="https://nextjs.org">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js">
+  </a>
+  <a href="https://www.typescriptlang.org">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
+  </a>
+  <a href="https://nodejs.org">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js">
+  </a>
+  <a href="https://expressjs.com">
+    <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express.js">
+  </a>
+  <a href="https://www.figma.com">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma">
+  </a>
+  <a href="https://www.canva.com">
+    <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" alt="Canva">
+  </a>
+  <a href="https://styled-components.com">
+    <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat&logo=styled-components&logoColor=white" alt="Styled Components">
+  </a>
+  <a href="https://sass-lang.com">
+    <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" alt="Sass">
+  </a>
+  <a href="https://wordpress.org">
+    <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" alt="WordPress">
+  </a>
+  <a href="https://www.restapitutorial.com">
+    <img src="https://img.shields.io/badge/REST-25D366?style=flat&logo=rest&logoColor=white" alt="REST">
+  </a>
+  <a href="https://graphql.org">
+    <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" alt="GraphQL">
+  </a>
+</div>
 
-## <h2 align="start"> ✔️ Version Control</h3>
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+---
 
+### 🔧 **Salesforce Skills**  
+<div style="display: flex; flex-wrap: wrap; gap: 15px;">
+  <a href="https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_intro.htm">
+    <img src="https://img.shields.io/badge/Apex-0066CC?style=flat&logo=salesforce&logoColor=white" alt="Apex">
+  </a>
+  <a href="https://developer.salesforce.com/docs/atlas.en-us.pages.meta/pages/pages_intro.htm">
+    <img src="https://img.shields.io/badge/Visualforce-0066CC?style=flat&logo=salesforce&logoColor=white" alt="Visualforce">
+  </a>
+  <a href="https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/lwc_intro.htm">
+    <img src="https://img.shields.io/badge/LWC-00A1E6?style=flat&logo=salesforce&logoColor=white" alt="Lightning Web Components">
+  </a>
+  <a href="https://developer.salesforce.com/docs/atlas.en-us.slds.meta/slds/what_is_slds.htm">
+    <img src="https://img.shields.io/badge/SLDS-0066CC?style=flat&logo=salesforce&logoColor=white" alt="SLDS">
+  </a>
+  <a href="https://developer.salesforce.com/docs/atlas.en-us.aura.meta/aura/aura_intro.htm">
+    <img src="https://img.shields.io/badge/Aura-0066CC?style=flat&logo=salesforce&logoColor=white" alt="Aura">
+  </a>
+  <a href="https://trailhead.salesforce.com">
+    <img src="https://img.shields.io/badge/Certified_Administrator-00A1E6?style=flat&logo=salesforce&logoColor=white" alt="Salesforce Administrator">
+  </a>
+  <a href="https://trailhead.salesforce.com">
+    <img src="https://img.shields.io/badge/Certified_Developer-00A1E6?style=flat&logo=salesforce&logoColor=white" alt="Salesforce Developer">
+  </a>
+  <a href="https://developer.salesforce.com/docs/atlas.en-us.achievements.meta/achievements/certification_platform_developer_ii.htm">
+    <img src="https://img.shields.io/badge/Platform_Developer_II-0066CC?style=flat&logo=salesforce&logoColor=white" alt="Platform Developer II">
+  </a>
+</div>
 
- ## <h2 align="start"> ✔️ IDEs/Editors</h3>
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
-![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
+---
 
-## <h2 align="start"> ✔️ Hosting/SaaS</h3>
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
+### ⚙️ **DevOps Skills**
+<div style="display: flex; gap: 15px;">
+  <a href="https://www.docker.com">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
+  </a>
+  <a href="https://www.kubernetes.io">
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  </a>
+  <a href="https://www.jenkins.io">
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" alt="Jenkins">
+  </a>
+  <a href="https://www.terraform.io">
+    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" alt="Terraform">
+  </a>
+</div>
 
+---
 
-## <h2 align="start"> ✔️ Servers</h3>
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+### 👨‍💻 **Additional Skills**  
+<div style="display: flex; gap: 15px;">
+  <a href="https://tailwindcss.com">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  </a>
+  <a href="https://www.javascript.com">
+    <img src="https://img.shields.io/badge/JavaScript-FF9900?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+  </a>
+  <a href="https://www.gnu.org/software/bash/">
+    <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash">
+  </a>
+  <a href="https://www.jenkins.io">
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" alt="Jenkins">
+  </a>
+  <a href="https://www.mysql.com">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+  </a>
+  <a href="https://www.mongodb.com">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
+  </a>
+  <a href="https://www.postgresql.org">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  </a>
+</div>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=devmdmohiuddin&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="mohiuddinmohi's github stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmdmohiuddin&layout=compact&theme=dracula&hide_border=true" alt="mohiuddinmohi's github stats"/>
-</p>
+---
 
+### 🌟 **GitHub Stats Overview**
+<div align="center" style="display: flex; gap: 30px;">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=devmdmohiuddin&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight" width="48%" />
+  
+  <!-- GitHub Contributions -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devmdmohiuddin&theme=tokyonight" width="48%" />
+</div>
+
+### 🧑‍💻 **Most Used Languages**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmdmohiuddin&layout=compact&theme=tokyonight" width="48%" />
+</div>
+
+--- 
+
+### 🚀 **Contact Me**  
+Feel free to reach out via my contact details below!  
+Email: devmdmohiuddin0241@email.com  
+Phone: +8801776060069 
+
+---
+
+This will ensure the skills are displayed flexibly across devices and that they stay visually appealing!
