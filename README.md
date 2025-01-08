@@ -189,7 +189,7 @@
 
 ### 🚀 **Contact Me**  
 Feel free to reach out via my contact details below!  
-Email: devmdmohiuddin0241@email.com  
+Email: devmdmohiuddin0241@gmail.com  
 Phone: +8801776060069 
 
 ---
